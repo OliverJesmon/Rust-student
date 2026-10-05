@@ -18,5 +18,7 @@ for the following purposes:
 <li>to build a backend api, since it is known to be faster among all programming languages as an API services</li>
 <li>to build a CLI tool.</li>
 </ul>
+<br><br>
+<img src="https://cdn.lowlevel.academy/static/web/lla-rust.png" alt="Rust Logo"/>
 </p>
 </div>

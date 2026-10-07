@@ -5,4 +5,10 @@
 <img src="./program2.png" alt="png2"/>
 <br><br>
 <img src="./program3.png" alt="png3"/>
-
+<br><br>
+<h2>Most Important thing ⚠️ : Variables in Rust Are By Default IMMUTABLE(not be overwritten unless explicitly declared)</h2>
+<p>The variables in the Rust are immutable by nature which means their value cannot be changed once they're declared. UNLESS, you use 'mut' keyword</p>
+<code>let mut name:&str="name"<br>
+name="Oliver Jesmon"<br>
+println!("{}",name)
+</code>
